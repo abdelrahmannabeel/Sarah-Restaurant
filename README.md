@@ -2,9 +2,9 @@
 ![Sarah-Restaurant](./imgs/project-landing.png)
 ## Project Live Reviwe
 - [Live Reviwe](https://abdelrahmannabeel.github.io/Sarah-Restaurant/)
-## ِAbout The project
+## About The project
 - The project is an exercise in using HTML & CSS
-## ِTools 
+## Tools
 - HTML
 - CSS
 ## My Accounts
