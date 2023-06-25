@@ -1,7 +1,7 @@
 # Sarah | Italian Restaurant
 ![Sarah-Restaurant](./imgs/project-landing.png)
 ## Project Live Reviwe
-- [Live Reviwe](https://abdelrahmannabeel.github.io/Sarah-Restaurant/)
+- [Live Review](https://abdelrahmannabeel.github.io/Sarah-Restaurant/)
 ## About The project
 - The project is an exercise in using HTML & CSS
 ## Tools
