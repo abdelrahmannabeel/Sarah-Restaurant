@@ -11,7 +11,7 @@ upBtn.onclick = function () {
     behavior: "smooth",
   });
 };
-// =================== Current Year ===================
+// =================== scroller ===================
 let scroller = document.createElement("div");
 scroller.classList.add("scroller");
 document.body.appendChild(scroller);
